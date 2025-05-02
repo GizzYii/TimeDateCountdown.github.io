@@ -1,5 +1,5 @@
 // Set the target date to June 30, 2025 at 00:00:00 and convert it to milliseconds
-var countDownDate = new Date ("5 Apr, 2025 00:00:00").getTime();
+var countDownDate = new Date ("5 Dec, 2025 00:00:00").getTime();
 
 // This function will run every second
 var x = setInterval(function(){
